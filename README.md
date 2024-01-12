@@ -1,6 +1,2 @@
-# urban-lamp
-Challenge week 9
-
-#### Credits
-
-https://stackoverflow.com/questions/67013842/trying-to-place-license-badge-within-readme-md-using-node-js-but-getting-error-a
+# ${answers.title}
+This is a generated README for the project.

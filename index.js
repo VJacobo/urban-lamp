@@ -11,6 +11,12 @@ const questions = [
     }
 ];
 
+// Function to generate README content
+function generateReadme(answers) {
+    const readmeContent = '# ${answers.title}\n\nThis is a generated README for the project.';
+    return readmeContent;
+}
+
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFileSync(fileName, data);
@@ -18,7 +24,8 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.createPromptModule(questions)
+    inquirer
+        .prompt(questions)
         .then((answers) => {
             const readmeContent = generateReadme(answers);
             writeToFile('README.md', readmeContent);
