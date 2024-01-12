@@ -1,4 +1,4 @@
-# ${answers.title}
+# Node.js Challenge: Professional README Generator
 This is a generated README for the project.
 
 ## Description and How To:
@@ -15,4 +15,3 @@ https://github.com/coding-boot-camp/potential-enigma/tree/main
 
 #### License
 MIT License
-
