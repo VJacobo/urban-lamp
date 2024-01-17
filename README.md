@@ -1,17 +1,11 @@
-# Node.js Challenge: Professional README Generator
-This is a generated README for the project.
+# Module 9 generate read me file
 
-## Description and How To:
-This is an application that uses Node.js. When the integrated terminal is opened and in the urban-lamp repo, 
-'node index.js' should be typed and the user will be prompted questions to form the readme content
+i want to generate a new readme.md file
 
-### Credits
-https://stackoverflow.com/questions/67013842/trying-to-place-license-badge-within-readme-md-using-node-js-but-getting-error-a
+undefined
 
-https://www.davidketcheson.info/2015/05/13/add_a_readme.html
+to show knowlege in node.js and inquirer
 
-Original Creator Repo for the Starter Code: 
-https://github.com/coding-boot-camp/potential-enigma/tree/main
+License: MIT
 
-#### License
-MIT License
+Contact: VictoiaJacobo99@gmail.com
